@@ -10,13 +10,13 @@ Link: Kaggle (dhondoi/10000-images-of-7-class-animal)
 
 Dataset terdiri dari 7 kelas:
 
-- Bee  
+- Spider 
 - Cat  
-- Cow  
+- Fish 
 - Dog  
-- Elephant  
+- Butterfly
 - Horse  
-- Squirrel  
+- Chicken
 
 Dataset kemudian dibagi menjadi:
 
