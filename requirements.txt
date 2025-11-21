@@ -1,0 +1,8 @@
+tensorflow==2.19.0
+tensorflowjs==4.22.0
+opencv-python==4.12.0.88
+matplotlib==3.10.0
+scikit-learn==1.6.1
+numpy==2.0.2
+split-folders==0.5.1
+kagglehub==0.3.13
